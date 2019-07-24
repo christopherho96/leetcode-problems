@@ -9,4 +9,4 @@ class Solution(object):
                 right -= 1
             else:
                 left += 1
-        return right + 1        
+        return left       
